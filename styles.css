@@ -1,0 +1,17 @@
+#insert {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+}
+
+.key {
+    display: flex;
+    justify-content: center;
+    /* align-content: center; */
+    align-items: center;
+    /* align-content: center; */
+    border: 1px solid black;
+    width: 150px;
+    height: 150px;
+}
